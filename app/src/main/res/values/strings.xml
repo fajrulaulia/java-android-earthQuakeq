@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EarthQuakeQ</string>
+    <string name="informasi_gempa_terakhir">Informasi Gempa Terakhir</string>
+    <string name="refresh">Refresh</string>
+    <string name="magnitudo">Magnitudo</string>
+    <string name="waktu_kejadian">Waktu Kejadian</string>
+    <string name="lokasi_kejadian">Lokasi Kejadian</string>
+    <string name="kucing" />
+</resources>
